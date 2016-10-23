@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="fitsystemwindowlayout-2.0.0">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.jude/fitsystemwindowlayout/2.0.0/res" />
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.jude/fitsystemwindowlayout/2.0.0/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/2.10/caches/modules-2/files-2.1/com.jude/fitsystemwindowlayout/2.0.0/aec0d6cbc23bca265176e3580e72f0fb1e262632/fitsystemwindowlayout-2.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="beam-3.0.1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.jude/beam/3.0.1/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.jude/beam/3.0.1/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/2.10/caches/modules-2/files-2.1/com.jude/beam/3.0.1/84f0965871338b1455be2477e585e9287488286a/beam-3.0.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="News_tab">
+        <item>国内</item>
+        <!--<item>每日一笑</item>-->
+        <item>国际</item>
+        <item>科技</item>
+        <item>军事</item>
+        <item>财经</item>
+        <item>体育</item>
+        <item>娱乐</item>
+    </string-array>
+    <string-array name="search_News_tab">
+        <item>国内焦点</item>
+   <!--     <item>每日一笑</item>-->
+        <item>国际焦点</item>
+        <item>科技焦点</item>
+        <item>军事焦点</item>
+        <item>财经焦点</item>
+        <item>体育焦点</item>
+        <item>娱乐焦点</item>
+    </string-array>
+    <string-array name="tuijian">
+        <item>热门推荐</item>
+        <item>手机壁纸</item>
+        <item>风景</item>
+        <item>唯美</item>
+        <item>宠物</item>
+        <item>影视壁纸</item>
+        <item>头像</item>
+        <item>老司机</item>
+    </string-array>
+    <string-array name="ad">
+        <item>类Rogue游戏安利</item>
+        <item>舞见推荐~~螺主任</item>
+        <item>咔嚓咔嚓</item>
+        <item>全国高校漫社大赏</item>
+    </string-array>
+
+</resources>

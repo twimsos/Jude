@@ -1,0 +1,536 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.gradle\caches\2.10\caches\modules-2\files-2.1\com.google.code.gson\gson\2.7\751f548c85fa49f330cecbb1875893f971b33c4e\gson-2.7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="C:\Users\Administrator\Desktop\Code\Judu\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.7_974d1243fc70cb67a898f147a5643ace9c8d62a4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\Desktop\Code\Judu\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c755536e5a100d9c76c8ea0b72f76c018f7a9de2">
+        <dex dex="C:\Users\Administrator\Desktop\Code\Judu\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-24.2.0_94f0e3fb93b0108aadc5f9807a7a88a7e4d54194\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\Desktop\Code\Judu\app\build\intermediates\exploded-aar\com.facebook.fresco\fbcore\0.10.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d323cf4983bdfce7136a1ce5e32710e1b36b20fe">
+        <dex dex="C:\Users\Administrator\Desktop\Code\Judu\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.facebook.fresco-fbcore-0.10.0_7d9fb6911ebdf0f8613b0b1990311a1e9927310c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.gradle\caches\2.10\caches\modules-2\files-2.1\com.squareup.retrofit2\converter-gson\2.1.0\aa557d71ead91cbf26e0c316a0f593d168303309\converter-gson-2.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="aa557d71ead91cbf26e0c316a0f593d168303309">
+        <dex dex="C:\Users\Administrator\Desktop\Code\Judu\app\build\intermediates\transforms\dex\debug\folders\1000\10\converter-gson-2.1.0_0a86d6fdf618f3010db28c6d97bf8c63dfcffecb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\Desktop\Code\Judu\app\build\intermediates\exploded-aar\com.blankj\utilcode\1.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="096355ce590f1b424dcee88e22ca305ce71f994a">
+        <dex dex="C:\Users\Administrator\Desktop\Code\Judu\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.blankj-utilcode-1.3.0_6dd2da7a4e14b315a9fdc43a83e4bcb488434bd0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.gradle\caches\2.10\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="C:\Users\Administrator\Desktop\Code\Judu\app\build\intermediates\transforms\dex\debug\folders\1000\10\picasso-2.5.2_715c322f337035def3dc32bef13754a37da322d0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\Desktop\Code\Judu\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="C:\Users\Administrator\Desktop\Code\Judu\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.0_fd6b850b6081a490ac75f2ef9867d2cab3b23cae\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.gradle\caches\2.10\caches\modules-2\files-2.1\com.parse.bolts\bolts-android\1.1.4\129874135e6081269ace2312092031558865de12\bolts-android-1.1.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="129874135e6081269ace2312092031558865de12">
+        <dex dex="C:\Users\Administrator\Desktop\Code\Judu\app\build\intermediates\transforms\dex\debug\folders\1000\10\bolts-android-1.1.4_6b31f18c31eaaad8a3f24c2997d544e3d6a7df6e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\Desktop\Code\Judu\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="263fa81ac8b079374aaec88b5cded4ebead90277">
+        <dex dex="C:\Users\Administrator\Desktop\Code\Judu\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_04433c5fa1b2a9f77891282ff2eca251c42c4185\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\Desktop\Code\Judu\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="C:\Users\Administrator\Desktop\Code\Judu\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.0_72b15546aa572f20b59e003486561dc19bc59367\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.gradle\caches\2.10\caches\modules-2\files-2.1\com.squareup.okio\okio\1.8.0\5ea7af56cc7c567ed9856d99efb30740e9b17ff\okio-1.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="05ea7af56cc7c567ed9856d99efb30740e9b17ff">
+        <dex dex="C:\Users\Administrator\Desktop\Code\Judu\app\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.8.0_34fa507c2da43c0dceb4c0e1fe23c7b8296009bd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.gradle\caches\2.10\caches\modules-2\files-2.1\javax.inject\javax.inject\1\6975da39a7040257bd51d21a231b76c915872d38\javax.inject-1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="C:\Users\Administrator\Desktop\Code\Judu\app\build\intermediates\transforms\dex\debug\folders\1000\10\javax.inject-1_21e6507250812986ba18d4b3ad70e0a572f9f22e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.gradle\caches\2.10\caches\modules-2\files-2.1\com.squareup.retrofit2\adapter-rxjava\2.1.0\693eddc23e87ab13f9cf5001707ce8e7e1d1ff01\adapter-rxjava-2.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="693eddc23e87ab13f9cf5001707ce8e7e1d1ff01">
+        <dex dex="C:\Users\Administrator\Desktop\Code\Judu\app\build\intermediates\transforms\dex\debug\folders\1000\10\adapter-rxjava-2.1.0_f0828679071c3301683a5b0ef2ef9a7f77d70c01\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\Desktop\Code\Judu\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="C:\Users\Administrator\Desktop\Code\Judu\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.0_4e46723df5a62e7f1a8b579fc000dd7721e83a46\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\Desktop\Code\Judu\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="C:\Users\Administrator\Desktop\Code\Judu\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.0_787d078e9473f0d9ad6ff517dd6cb10f0d51c9f0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\Desktop\Code\Judu\app\build\intermediates\exploded-aar\ch.ielse\switchbutton\1.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b452d9613798fcaa9c59b12cefe6d0317238f227">
+        <dex dex="C:\Users\Administrator\Desktop\Code\Judu\app\build\intermediates\transforms\dex\debug\folders\1000\10\ch.ielse-switchbutton-1.0.0_ddb6fea73a3761d7b66c4f9d7181efc2de2b0630\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.gradle\caches\2.10\caches\modules-2\files-2.1\com.squareup.retrofit2\retrofit\2.1.0\2de7cd8b95b7021b1d597f049bcb422055119f2c\retrofit-2.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="2de7cd8b95b7021b1d597f049bcb422055119f2c">
+        <dex dex="C:\Users\Administrator\Desktop\Code\Judu\app\build\intermediates\transforms\dex\debug\folders\1000\10\retrofit-2.1.0_0cc4756a2936a80274ebc7e63e33230d79183cc3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\Desktop\Code\Judu\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="96e33a7aaee00ab64270e2a9887b8f9ef32c8b73">
+        <dex dex="C:\Users\Administrator\Desktop\Code\Judu\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-24.2.0_2c2c2b7b803d946c9a9b38e5a949344821b2c29e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\Desktop\Code\Judu\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="C:\Users\Administrator\Desktop\Code\Judu\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_285f38c0c54bf5137cabe09e35640736f56de053\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\Desktop\Code\Judu\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="C:\Users\Administrator\Desktop\Code\Judu\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.0_1ee8b7a702c9377ff64350ec7291bf223c6bf6a0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.0\support-annotations-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="C:\Users\Administrator\Desktop\Code\Judu\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.0_02813ff0ba0b1689fe98abc00a4420b8284442d8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.gradle\caches\2.10\caches\modules-2\files-2.1\org.greenrobot\greendao\3.0.1\20ec484d992d38d7775a22e43ac40d2d551bb886\greendao-3.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="20ec484d992d38d7775a22e43ac40d2d551bb886">
+        <dex dex="C:\Users\Administrator\Desktop\Code\Judu\app\build\intermediates\transforms\dex\debug\folders\1000\10\greendao-3.0.1_449610100b46b95ced90b11d368cc9d9a626db4b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.gradle\caches\2.10\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="C:\Users\Administrator\Desktop\Code\Judu\app\build\intermediates\transforms\dex\debug\folders\1000\10\library-2.4.0_e9ef2a1658e71c7c885574d6b0228b6e219c8a9b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\Desktop\Code\Judu\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="C:\Users\Administrator\Desktop\Code\Judu\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_4798a29da39511714b4150ca068ba7d64e57b59b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\Desktop\Code\Judu\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="C:\Users\Administrator\Desktop\Code\Judu\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.0_4dc12366b565ce9b81c2425ab7d840afcd3fcfa0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\Desktop\Code\Judu\app\build\intermediates\exploded-aar\io.reactivex\rxandroid\1.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5a2386ad9bfff580b206a7fe305cdccd00798159">
+        <dex dex="C:\Users\Administrator\Desktop\Code\Judu\app\build\intermediates\transforms\dex\debug\folders\1000\10\io.reactivex-rxandroid-1.2.1_fd67250b8439c8910cdfe52cf6014dbb69ec3d04\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.gradle\caches\2.10\caches\modules-2\files-2.1\org.greenrobot\greendao-api\3.0.0\9170fafb15855927b2e131e4fb7ac47dede441b7\greendao-api-3.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9170fafb15855927b2e131e4fb7ac47dede441b7">
+        <dex dex="C:\Users\Administrator\Desktop\Code\Judu\app\build\intermediates\transforms\dex\debug\folders\1000\10\greendao-api-3.0.0_1740b091d570609d2f24eba816f73deeb428ed5c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\Desktop\Code\Judu\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="C:\Users\Administrator\Desktop\Code\Judu\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_f5b3f25d59b696aff37d92c1322ab52d8f429290\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\Desktop\Code\Judu\app\build\intermediates\exploded-aar\com.jude\fitsystemwindowlayout\2.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="79181bd9eb665564c978cd643790760c04a58a19">
+        <dex dex="C:\Users\Administrator\Desktop\Code\Judu\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.jude-fitsystemwindowlayout-2.0.0_78e995816b616c026671ba5a0ee4a06c62fd77be\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\Desktop\Code\Judu\app\build\intermediates\exploded-aar\com.pnikosis\materialish-progress\1.7\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="41a4edf3c43fdbce6eba27da50b17ff9933987f1">
+        <dex dex="C:\Users\Administrator\Desktop\Code\Judu\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.pnikosis-materialish-progress-1.7_f23b6a0d5c8ba3a1d3b7cd0dacbf55cbfacd89d9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\Desktop\Code\Judu\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="C:\Users\Administrator\Desktop\Code\Judu\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_d903b4bd222a9c573ee10906c6a7b1a93cab74f3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\Desktop\Code\Judu\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-base\0.10.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5e88a2a26ac71cd7f8fd8bd9f9381fa06d1a47a3">
+        <dex dex="C:\Users\Administrator\Desktop\Code\Judu\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.facebook.fresco-imagepipeline-base-0.10.0_acf539d0c2285489a5e715e529957a20277c7f0d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.gradle\caches\2.10\caches\modules-2\files-2.1\org.freemarker\freemarker\2.3.23\cd143cd8c02a9f838e3cb75a6dfe133750437f6d\freemarker-2.3.23.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="cd143cd8c02a9f838e3cb75a6dfe133750437f6d">
+        <dex dex="C:\Users\Administrator\Desktop\Code\Judu\app\build\intermediates\transforms\dex\debug\folders\1000\10\freemarker-2.3.23_2ff9e5cba6d310b31da83a0d6896c752a084bfe1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.gradle\caches\2.10\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.3.1\19047bdb6a4fc00a44124f64ca98e88fc204e7e3\okhttp-3.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="19047bdb6a4fc00a44124f64ca98e88fc204e7e3">
+        <dex dex="C:\Users\Administrator\Desktop\Code\Judu\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-3.3.1_89fec49e48b85adf45f19f5d5254638663d0d63b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\Desktop\Code\Judu\app\build\intermediates\exploded-aar\com.jakewharton\butterknife\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="a07818a1ecabdb149998823429cce555af4b9cba">
+        <dex dex="C:\Users\Administrator\Desktop\Code\Judu\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.jakewharton-butterknife-8.4.0_03ae961bdcee6f128a14ea1dbdbaded6b0e9970e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\Desktop\Code\Judu\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="81aa84ddc861b260e9df0af7eb5be6eadefa1b9f">
+        <dex dex="C:\Users\Administrator\Desktop\Code\Judu\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_274af60326b16cc6ec676fecd9f51fae57fb3977\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\Desktop\Code\Judu\app\build\intermediates\exploded-aar\com.android.support\design\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="23eb0d2998a782213b56168cbf23a0688b9111d9">
+        <dex dex="C:\Users\Administrator\Desktop\Code\Judu\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-24.2.0_fe8169ddbb5f0d6bc603544aa6f835c816f96d69\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\Desktop\Code\Judu\app\build\intermediates\exploded-aar\com.jude\rollviewpager\1.2.9\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9229a89cbb43d66d573e975cc3fdab425bec4372">
+        <dex dex="C:\Users\Administrator\Desktop\Code\Judu\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.jude-rollviewpager-1.2.9_e88fa69f9383f17d9136975095980e8c1641942d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.gradle\caches\2.10\caches\modules-2\files-2.1\com.google.dagger\dagger\2.4\6b290a792253035c9fcc912d6a4d7efb3e850211\dagger-2.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6b290a792253035c9fcc912d6a4d7efb3e850211">
+        <dex dex="C:\Users\Administrator\Desktop\Code\Judu\app\build\intermediates\transforms\dex\debug\folders\1000\10\dagger-2.4_6e4d9751549cbfa564f4ada0ba42af8528e7026c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\Desktop\Code\Judu\app\build\intermediates\exploded-aar\com.lzy.widget\ninegridview\0.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="41dc54248fbfeef9ecc8e810ce512aca8f500248">
+        <dex dex="C:\Users\Administrator\Desktop\Code\Judu\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.lzy.widget-ninegridview-0.2.0_261c4bd4c1d4d5c0c7cfad060d5c5d10c80aaf20\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.gradle\caches\2.10\caches\modules-2\files-2.1\org.greenrobot\greendao-generator\3.0.0\ef03fdf4961ef0714ff37ab7480f46c4a437ba5c\greendao-generator-3.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ef03fdf4961ef0714ff37ab7480f46c4a437ba5c">
+        <dex dex="C:\Users\Administrator\Desktop\Code\Judu\app\build\intermediates\transforms\dex\debug\folders\1000\10\greendao-generator-3.0.0_dee9a6b986dc8b1da91024f9b5e63bf529c9c0cb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.gradle\caches\2.10\caches\modules-2\files-2.1\io.reactivex\rxjava\1.1.6\2586312cd2b8a511e4c6236736f5a039fc0f2273\rxjava-1.1.6.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="2586312cd2b8a511e4c6236736f5a039fc0f2273">
+        <dex dex="C:\Users\Administrator\Desktop\Code\Judu\app\build\intermediates\transforms\dex\debug\folders\1000\10\rxjava-1.1.6_6868d9b46ebbee9d41bce91127ff315b366eb40f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\Desktop\Code\Judu\app\build\intermediates\exploded-aar\com.facebook.fresco\drawee\0.10.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="65f0c887ee1f57cd0ea65b228e39b7f35372b798">
+        <dex dex="C:\Users\Administrator\Desktop\Code\Judu\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.facebook.fresco-drawee-0.10.0_0af72a6162f4b790fe4bfcc90d760927c623e6b5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.gradle\caches\2.10\caches\modules-2\files-2.1\com.squareup.okhttp3\logging-interceptor\3.3.1\99ce730034c6f5aaed710d1e0e9df95e8714ed5f\logging-interceptor-3.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="99ce730034c6f5aaed710d1e0e9df95e8714ed5f">
+        <dex dex="C:\Users\Administrator\Desktop\Code\Judu\app\build\intermediates\transforms\dex\debug\folders\1000\10\logging-interceptor-3.3.1_880c27f5d9f2973ca3a48afd699598faf47f52fb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\Desktop\Code\Judu\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline\0.10.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6e1ed00013584399dbe27d45ac1fd6a9828c9fca">
+        <dex dex="C:\Users\Administrator\Desktop\Code\Judu\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.facebook.fresco-imagepipeline-0.10.0_82b620fde6683e64476e035ec4f9d0dc2c6caf61\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\Desktop\Code\Judu\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="C:\Users\Administrator\Desktop\Code\Judu\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.0_ccac3abdd5e96aa224f7920c657b978d87822113\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\Desktop\Code\Judu\app\build\intermediates\exploded-aar\com.jude\beam\3.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7538bec99f092b26935cb3cd343898b333686168">
+        <dex dex="C:\Users\Administrator\Desktop\Code\Judu\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.jude-beam-3.0.1_e3b1f97ae5967b93355dde3c62a30894e7d88819\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\Desktop\Code\Judu\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="C:\Users\Administrator\Desktop\Code\Judu\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_ca49e31437ca208ffd7d1b56168508f5b51952de\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\Desktop\Code\Judu\app\build\intermediates\exploded-aar\com.facebook.fresco\fresco\0.10.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="857099e23430445aeb65cf703d5adf646ff280f1">
+        <dex dex="C:\Users\Administrator\Desktop\Code\Judu\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.facebook.fresco-fresco-0.10.0_f3441351a3a502257106982e1fe996aa7cf328de\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.gradle\caches\2.10\caches\modules-2\files-2.1\com.jakewharton\disklrucache\2.0.2\93b399470e72c0bc8cb52379943b63c9aa586cd8\disklrucache-2.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="93b399470e72c0bc8cb52379943b63c9aa586cd8">
+        <dex dex="C:\Users\Administrator\Desktop\Code\Judu\app\build\intermediates\transforms\dex\debug\folders\1000\10\disklrucache-2.0.2_efc771718d94704bc76b79a32d78f893300210cf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\Desktop\Code\Judu\app\build\intermediates\exploded-aar\com.jude\easyrecyclerview\4.0.2\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="2cbc8ceae92e222a35983d47df2d6b5d9e028278">
+        <dex dex="C:\Users\Administrator\Desktop\Code\Judu\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.jude-easyrecyclerview-4.0.2_4390d374fe35a39eccae07a187aeab02bb41e4ef\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\Desktop\Code\Judu\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="C:\Users\Administrator\Desktop\Code\Judu\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.0_8055ee8ef6d69bd902c34ce033afaf7cb0422636\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\Desktop\Code\Judu\app\build\intermediates\exploded-aar\com.github.chrisbanes.photoview\library\1.2.4\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="98b5309c8d368a7c83ca5f90e0c905044c195edd">
+        <dex dex="C:\Users\Administrator\Desktop\Code\Judu\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.github.chrisbanes.photoview-library-1.2.4_98f4c4dd4697a2ed73ad2ef2473c5729d757a0b1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\Desktop\Code\Judu\app\build\intermediates\exploded-aar\com.jude\utils\1.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="56ccb6babfca2fc2bf2052456ff9d6e3d3a700ad">
+        <dex dex="C:\Users\Administrator\Desktop\Code\Judu\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.jude-utils-1.2.1_8d078074bc931596e9ef5a47aea2e1b4db9b177b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.gradle\caches\2.10\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.6.1\86b122e640af09b0723e1fa44083c354ba6d9089\glide-3.6.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="86b122e640af09b0723e1fa44083c354ba6d9089">
+        <dex dex="C:\Users\Administrator\Desktop\Code\Judu\app\build\intermediates\transforms\dex\debug\folders\1000\10\glide-3.6.1_8d44728b2a11ebd16a1db279ced4a7b9e26d3438\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\Desktop\Code\Judu\app\build\intermediates\exploded-aar\jp.wasabeef\glide-transformations\1.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5264b71e1dc59a10268e0aafa38cb9a9c773a20d">
+        <dex dex="C:\Users\Administrator\Desktop\Code\Judu\app\build\intermediates\transforms\dex\debug\folders\1000\10\jp.wasabeef-glide-transformations-1.3.1_9dc75f7b9fffd65f6cba77de8119df8d9a223e2a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\Desktop\Code\Judu\app\build\intermediates\exploded-aar\com.github.CymChad\BaseRecyclerViewAdapterHelper\2.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="706b0eeb05e0f866b8556b8b438de294d8f02663">
+        <dex dex="C:\Users\Administrator\Desktop\Code\Judu\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.github.CymChad-BaseRecyclerViewAdapterHelper-2.2.0_c05252253bc2262b6265d653b24aefe2440a61ef\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\Desktop\Code\Judu\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="C:\Users\Administrator\Desktop\Code\Judu\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.0_fb61e44cf80fb1ca9d2598eb85bfa181d866a471\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.gradle\caches\2.10\caches\modules-2\files-2.1\com.jakewharton\butterknife-annotations\8.4.0\ea392375cf9ff59234a82e7928a204215ccc98cd\butterknife-annotations-8.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ea392375cf9ff59234a82e7928a204215ccc98cd">
+        <dex dex="C:\Users\Administrator\Desktop\Code\Judu\app\build\intermediates\transforms\dex\debug\folders\1000\10\butterknife-annotations-8.4.0_f67cff09e5f96de6bb795bb21d13a8d282154907\classes.dex" />
+    </item>
+
+</items>
